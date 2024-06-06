@@ -1,5 +1,5 @@
 # so i have little rules before play this game:
-   * 1.dont read lore on code,and dont open picture folder  (only run and play,DONT READ CODE(plz) bcs you can get spoilers)
+   * 1.dont read lore on code  (only run and play,DONT READ CODE(plz) bcs you can get spoilers)
    * 2.dowload all python libraries(modules) in requirements.py
    * 3.DONT CHANGE CODE IF YOU SAW BUGS write on discordapp.com/users/
    1050310867318747186 its my discord link
