@@ -5,7 +5,7 @@ colorama.init(autoreset=True)
 
 
 
-from pictures.functions import Phlyn, Feli, System, present,press_continue,press_start,Storyteller,mysterious_man,choose1
+from functions import Phlyn, Feli, System, present,press_continue,press_start,Storyteller,mysterious_man,choose1
 press_start()
 present()
 press_continue()
